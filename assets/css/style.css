@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+    text-align: center;
+}
+
+#directions {
+    color: lightskyblue;
+    font-family: 'Knewave', cursive;
+    font-size: 48px;
+}
+
+div {
+    color: greenyellow;
+    font-family: 'Monoton', cursive;
+    font-size: 60px;
+}
+
+p {
+    color: palevioletred;
+    font-family: 'Lobster', cursive;
+    font-size: 36px;
+}

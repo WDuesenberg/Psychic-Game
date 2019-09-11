@@ -29,7 +29,7 @@ document.onkeyup = function(event) {
         guess += userGuess + ", ";
     }
 
-    if (turns == 0) {
+    if (turns == 13) {
         losses++;
         turns = "";
         guess = "";
